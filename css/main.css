@@ -1,0 +1,70 @@
+*{
+	font-family: helvetica;
+}
+.tops{
+	margin-right: 30px;
+	margin-top: 80px;
+	color: black;
+}
+.imagen{
+	height: 490px;
+	width:1263px;
+	margin-left: -167px;
+}
+.little{
+	font-size: 12px;
+}
+.top2{
+	margin-top: 30px;
+}
+.fondo{
+	background-image: url("../images/background1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 220px;
+	width: 1200px;
+}
+.name{
+	margin-top: 70px;
+	font-size: 30px;
+}
+.me{
+	height: 90%;
+	width: 90%;
+}
+.about{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.logo{
+	height: 90px;
+	width: 90px;
+	margin-top: 60px;
+	margin-left: 550px;
+}
+.contenido{
+	margin-top: -60px;
+}
+.imageness{
+	height: 150px;
+	width: 150px;
+	-webkit-border-radius: 150px; 
+    -moz-border-radius: 150px;
+    margin-top: 50px;
+    border: solid 2px lightgray;
+}
+.one{
+	margin-top: -12px;
+}
+.contact{
+	margin-top: 40px;
+}
+.icon{
+	margin-left: 100px;
+}
+.gris{
+	background-color: lightgray;
+	height: 300px;
+	width: 1250px;
+	margin-top: 70px;
+}
